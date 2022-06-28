@@ -1,8 +1,15 @@
-<script setup>
+<script>
+import NavBar from "./components/NavBar.vue";
+
+export default {
+    components: {
+        NavBar,
+    },
+};
 </script>
 
 <template>
-  <h1 class="font-bold text-red-500 text-2xl">From Tailwind CSS</h1>
+  <NavBar />
 </template>
 
 <style>
