@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="846" height="749" viewBox="0 0 846 749">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.063" y1="-0.217" x2="0.873" y2="1.317" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#44c977"/>
+      <stop offset="1" stop-color="#5368a3"/>
+    </linearGradient>
+    <clipPath id="clip-colors">
+      <rect width="846" height="749"/>
+    </clipPath>
+  </defs>
+  <g id="colors" clip-path="url(#clip-colors)">
+    <rect width="846" height="749" fill="#fff"/>
+    <rect id="Rectangle_63" data-name="Rectangle 63" width="130" height="115" transform="translate(47 40)" fill="#4dff91"/>
+    <rect id="Rectangle_64" data-name="Rectangle 64" width="130" height="115" transform="translate(227 40)" fill="#13224a"/>
+    <rect id="Rectangle_65" data-name="Rectangle 65" width="130" height="115" transform="translate(407 40)" fill="#1f3162"/>
+    <rect id="Rectangle_66" data-name="Rectangle 66" width="130" height="115" transform="translate(587 40)" fill="url(#linear-gradient)"/>
+    <rect id="Rectangle_67" data-name="Rectangle 67" width="130" height="115" transform="translate(47 270)" fill="#a1a6ad"/>
+    <rect id="Rectangle_68" data-name="Rectangle 68" width="130" height="115" transform="translate(227 270)" fill="#394565"/>
+    <text id="Text" transform="translate(53 249)" fill="#1f3162" font-size="28" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Text</tspan></text>
+  </g>
+</svg>
