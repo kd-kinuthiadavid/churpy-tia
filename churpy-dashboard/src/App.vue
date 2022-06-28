@@ -1,17 +1,25 @@
 <script>
-import NavBar from "./components/NavBar.vue";
+  import MainContent from "./components/MainContent.vue";
+  import IconsNav from "./components/IconsNav.vue";
 
-export default {
+  export default {
     components: {
-        NavBar,
+      MainContent,
+      IconsNav,
     },
-};
+  };
 </script>
 
 <template>
-  <NavBar />
+  <!-- <NavBar /> -->
+  <div class="appWrapper h-screen flex">
+    <IconsNav />
+    <MainContent />
+  </div>
 </template>
 
-<style>
-
+<style scoped>
+  .appWrapper {
+    background-color: #13224a;
+  }
 </style>
