@@ -4,7 +4,7 @@
   >
     <img
       class="w-14 h-14 mb-40 ml-4"
-      src="../assets/images/Logo icon.svg"
+      src="../assets/images/Logo-icon.svg"
       alt="logo"
     />
     <i

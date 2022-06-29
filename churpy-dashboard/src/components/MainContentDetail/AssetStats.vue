@@ -24,7 +24,7 @@
       <div class="flex flex-wrap justify-center items-center gap-2">
         <img
           class="rounded-full w-10 h-10 p-2"
-          src="../../assets/images/Leads icon.svg"
+          src="../../assets/images/Leads-icon.svg"
           alt="Tickets Icon"
         />
         <div class="flex flex-wrap flex-col">
