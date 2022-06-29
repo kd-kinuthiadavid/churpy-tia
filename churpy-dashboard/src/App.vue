@@ -12,7 +12,7 @@
 
 <template>
   <!-- <NavBar /> -->
-  <div class="appWrapper h-screen flex">
+  <div class="appWrapper h-screen flex overflow-y-scroll">
     <IconsNav />
     <MainContent />
   </div>

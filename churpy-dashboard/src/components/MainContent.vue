@@ -13,9 +13,11 @@
 </script>
 
 <template>
-  <div class="content-wrapper w-11/12 bg-purple-900 my-5 rounded flex">
+  <div
+    class="content-wrapper w-11/12 bg-purple-900 my-5 rounded flex overflow-y-scroll"
+  >
     <HighLightsNav />
-    <div class="bg-white rounded-2xl shadow-2xl p-10 w-full">
+    <div class="bg-white rounded-2xl shadow-2xl p-10 overflow-y-scroll">
       <NavBar />
       <ContentDetail />
     </div>
