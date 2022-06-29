@@ -2,22 +2,22 @@
 
 <template>
   <div
-    class="people-stats rounded mb-3 p-2 flex flex-col gap-3 text-white w-1/2"
+    class="people-stats rounded mb-3 p-2 flex flex-wrap flex-col gap-3 text-white w-1/2"
   >
     <p class="text-inherit">People Stats</p>
 
-    <div class="flex justify-between gap-4 mb-3">
-      <div class="flex justify-center items-center gap-2">
+    <div class="flex flex-wrap justify-between gap-4 mb-3">
+      <div class="flex flex-wrap justify-center items-center gap-2">
         <i class="fa-solid fa-user-shield text-xl px-2 py-2 rounded-full"></i>
-        <div class="flex flex-col">
+        <div class="flex flex-wrap flex-col">
           <h1 class="text-2xl">6 Users</h1>
           <small class="text-inherit">Administrators</small>
         </div>
       </div>
 
-      <div class="flex justify-center items-center gap-2">
+      <div class="flex flex-wrap justify-center items-center gap-2">
         <i class="fa-solid fa-users text-xl p-2 rounded-full"></i>
-        <div class="flex flex-col">
+        <div class="flex flex-wrap flex-col">
           <h1 class="text-2xl">17 Churpy Users</h1>
           <small class="text-inherit">Dev, Sales & Marketing, Support</small>
         </div>
