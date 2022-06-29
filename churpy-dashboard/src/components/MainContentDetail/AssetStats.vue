@@ -2,7 +2,7 @@
 
 <template>
   <div
-    class="asset-stats shadow-2xl rounded mb-3 p-2 flex flex-col gap-3 w-1/2"
+    class="asset-stats shadow-2xl rounded mb-3 p-2 flex flex-col gap-3 md:w-1/2"
   >
     <p class="text-inherit">People Stats</p>
 

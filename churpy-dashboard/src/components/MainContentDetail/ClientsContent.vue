@@ -34,7 +34,7 @@
 
 <template>
   <div
-    class="client-content shadow-2xl rounded mb-3 p-2 flex flex-col gap-3 w-1/2 pb-20"
+    class="client-content shadow-2xl rounded mb-3 p-2 flex flex-col gap-3 md:w-1/2 pb-20 h-full"
   >
     <div class="client-content-header flex justify-between items-center m-5">
       <h1 class="text-inherit text-xl font-light tracking-tight">

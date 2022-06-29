@@ -2,7 +2,7 @@
 
 <template>
   <div
-    class="people-stats rounded mb-3 p-2 flex flex-wrap flex-col gap-3 text-white w-1/2"
+    class="people-stats rounded mb-3 p-2 flex flex-wrap flex-col gap-3 text-white md:w-1/2"
   >
     <p class="text-inherit">People Stats</p>
 
