@@ -1,8 +1,15 @@
-# churpy-dashboard
+# Churpy Admin Console
 
-This template should help get you started developing with Vue 3 in Vite.
+Mock admin site for Churpy. You can visit the deployed site [here.](https://62bc41b3e68bd2288ca90581--helpful-manatee-181179.netlify.app/)
+
+## Built With:
+
+- [VueJs](https://vuejs.org/)
+- [TailwindCSS](https://tailwindcss.com/)
 
 ## Recommended IDE Setup
+
+This should help get you started developing with Vue 3 in Vite.
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
@@ -10,26 +17,26 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## How To Run The App Locally
 
-```sh
-npm install
-```
+### navigate to the front-end project
 
-### Compile and Hot-Reload for Development
+    ```
+    cd churpy-dashboard
+    ```
 
-```sh
-npm run dev
-```
+### Install dependencies
 
-### Compile and Minify for Production
+        ```
+        $ yarn
+        ```
 
-```sh
-npm run build
-```
+### Run the app
 
-### Lint with [ESLint](https://eslint.org/)
+        ```
+        $ yarn start
+        ```
 
-```sh
-npm run lint
-```
+### The app should be running on `localhost:3000`
+
+## Alternatively, you can access the deployed site [here](https://62bc41b3e68bd2288ca90581--helpful-manatee-181179.netlify.app/)
