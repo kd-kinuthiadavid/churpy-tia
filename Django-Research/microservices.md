@@ -58,3 +58,7 @@ There’re two main ways of implementing microservices in Django:
 
 - Building a service as a Django project
   - This is the way to go if you’re to build a true microservice architecture. Here you’d create a Django project and build a service out of that.
+
+[Prev: Fundamentals And Overview](overview.md)
+
+[Next: API Integration](django-and-apis.md)

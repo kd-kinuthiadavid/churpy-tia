@@ -40,3 +40,5 @@ However, there're cases where you'd want to have more control over how errors ar
     except Exception as e:
         capture_exception(e)
     ```
+
+[Prev: API Integration](django-and-apis.md)

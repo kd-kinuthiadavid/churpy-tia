@@ -18,3 +18,7 @@ The main concepts are:
     - `getUser` -> fetch a single user
 - URLs: specify the url path of API resources to be accessed
 - Pagination: allows you to control how many objects per page are returned
+
+[Prev: Django And Microservices](microservices.md)
+
+[Next: Django And Error Handling](error-handling.md)

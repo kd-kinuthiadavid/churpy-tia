@@ -27,3 +27,7 @@ Another important thing that sets Django apart is its architecture. Django follo
 A key difference between Django's MVT and the MVC architecture is that:
 
 > In Django, the "View" is where you define **which** data gets presented to the user while the "Template" is where you define **how** the data is presented to the user. According to Django, the view describes which data is to be presented but it eventually delegates to the template to define how the data is presented. In **MVC** the **View** is responsible for anything and everything as far as data presentation goes
+
+[Back To Research Home](README.md)
+
+[Next: Django And Microservices](microservices.md)
