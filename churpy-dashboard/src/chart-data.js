@@ -5,9 +5,7 @@ const chartData = {
     datasets: [
       {
         label: "Trends",
-        data: [
-          500.166, 120.081, 3.003, 300.323, 954.792, 285.886, 43.662, 51.514,
-        ],
+        data: [500.166, 120.081, 3.003, 300.323, 954.792, 285.886, 43.662],
         backgroundColor: "rgba(71, 183,132,.5)",
         borderColor: "#47b784",
         borderWidth: 3,
