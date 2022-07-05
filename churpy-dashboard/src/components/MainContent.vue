@@ -20,6 +20,10 @@
     <div class="bg-white rounded-2xl shadow-2xl p-10 overflow-y-scroll w-full">
       <NavBar />
       <ContentDetail />
+      <div class="content-footer mt-40 flex justify-between">
+        <p>Churpy Admin Console</p>
+        <p><span>Powered by </span>Churpy Inc.</p>
+      </div>
     </div>
   </div>
 </template>
@@ -27,5 +31,13 @@
 <style scoped>
   .content-wrapper {
     background-color: #1f3162;
+  }
+
+  .content-footer {
+    color: #1f3162;
+    margin-bottom: 0 !important;
+  }
+  span {
+    color: #a1a6ad;
   }
 </style>
