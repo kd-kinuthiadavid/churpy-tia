@@ -1,5 +1,5 @@
 <script>
-  import Chart from "chart.js";
+  import { Chart } from "chart.js";
   import chartData from "../../chart-data.js";
 
   export default {
