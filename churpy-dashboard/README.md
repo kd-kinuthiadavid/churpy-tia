@@ -1,6 +1,8 @@
 # Churpy Admin Console
 
-Mock admin site for Churpy. You can visit the deployed site [here.](https://62bc41b3e68bd2288ca90581--helpful-manatee-181179.netlify.app/)
+Mock admin site for Churpy. You can visit the deployed site:
+- [v.0.1](https://62bc41b3e68bd2288ca90581--helpful-manatee-181179.netlify.app/)
+- [v.0.2](https://62c3e9f668c21023e6ea16d5--helpful-manatee-181179.netlify.app/)
 
 ## Built With:
 
@@ -39,4 +41,4 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ### The app should be running on `localhost:3000`
 
-## Alternatively, you can access the deployed site [here](https://62bc41b3e68bd2288ca90581--helpful-manatee-181179.netlify.app/)
+## Alternatively, you can access the deployed site [here](https://62c3e9f668c21023e6ea16d5--helpful-manatee-181179.netlify.app/)
