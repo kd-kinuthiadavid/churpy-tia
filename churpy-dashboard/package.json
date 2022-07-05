@@ -9,8 +9,7 @@
   },
   "dependencies": {
     "chart.js": "^3.8.0",
-    "vue": "^3.2.37",
-    "vue-chartjs": "^4.1.1"
+    "vue": "^3.2.37"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.1.0",
